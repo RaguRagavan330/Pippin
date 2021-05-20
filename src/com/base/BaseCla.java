@@ -236,7 +236,7 @@ public class BaseCla {
 	
 	public static void waitTime() throws InterruptedException
 	{
-		Thread.sleep(5000);
+		Thread.sleep(8000);
 	}
 	public static void jExecuteClick(WebElement ele)
 	{
